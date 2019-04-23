@@ -43,19 +43,19 @@ variables:
   - name: tag_description
     description: Tag description
     default: Text here
-    type_hint: Text
+    type_hint: text
   - name: edl_name
     description: Name of edl
     default: Enter EDL name here
-    type_hint: Text
+    type_hint: text
   - name: edl_description
     description: description of edl
     default: Enter EDL name here
-    type_hint: Text
+    type_hint: text
   - name: url
     description: Name of url
     default: http://rty.com
-    type_hint: Text
+    type_hint: text
 
 # ---------------------------------------------------------------------
 # end of variables section

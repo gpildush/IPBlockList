@@ -1,4 +1,4 @@
-<entry name="{{ edl_name }}">
+<entry name="{{ edl_name }}_in">
      <to>
        <member>any</member>
      </to>
@@ -31,7 +31,7 @@
        <member>{{ tag_name }}</member>
      </tag>
    </entry>
-   <entry name="{{ edl_name }}">
+   <entry name="{{ edl_name }}_out">
      <to>
        <member>any</member>
      </to>
